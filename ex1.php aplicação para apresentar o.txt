@@ -1,0 +1,26 @@
+ex1.php: aplicação para apresentar o exemplo "Olá mundo!"
+
+ex2.php: Concatenação de strings
+
+ex3.php: Variavel Inteiro com condição if
+
+ex4.php: Variavel Float com condição if
+
+ex5.php: Variavel boolean com condição if
+
+ex6.php: Variavel array exemplo "frutas"
+
+ex7.php: Variavel classe objeto pessoa
+
+ex8.php: Exemplos com echo e print 
+
+ex9.php: Exemplos com funções ambiente
+
+ex10.php:concatenação de strings
+
+ex11.php: Usamos gettype, settype e var_dump
+
+ex12.php: Usando settype para apresentar divisão com valor inteiro
+
+
+
